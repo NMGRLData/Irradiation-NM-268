@@ -1,0 +1,32 @@
+{
+    "AX": {
+        "error": 0.0, 
+        "fit": "average_SEM", 
+        "value": 0.11572001874446869
+    }, 
+    "CDD": {
+        "error": 0.0, 
+        "fit": "average_SEM", 
+        "value": 0.00046640814980491996
+    }, 
+    "H1": {
+        "error": 0.0, 
+        "fit": "average_SEM", 
+        "value": 0.1405535340309143
+    }, 
+    "H2": {
+        "error": 0.0, 
+        "fit": "average_SEM", 
+        "value": 0.016145119443535805
+    }, 
+    "L1": {
+        "error": 0.0, 
+        "fit": "average_SEM", 
+        "value": -0.20551009476184845
+    }, 
+    "L2": {
+        "error": 0.0, 
+        "fit": "average_SEM", 
+        "value": 0.10952097922563553
+    }
+}
